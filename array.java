@@ -1,4 +1,3 @@
-import java.util.Scanner;
     public class array {
         static int[][] transpose(int arr[][]){
             int[][] matrix = new int[arr[0].length][arr.length];
